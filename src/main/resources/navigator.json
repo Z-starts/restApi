@@ -1,0 +1,210 @@
+{
+  "data": [
+    {
+      "iconClass": "glyphicon glyphicon-heart",
+      "title": "测试模块",
+      "nestedName": [
+        {
+          "neIconClass": "glyphicon glyphicon-th",
+          "name": "表格",
+          "url": "table"
+        },
+        {
+          "neIconClass": "glyphicon glyphicon-signal",
+          "name": "图表(ng-cahrt)",
+          "url": "chart"
+        }
+      ]
+    },
+    {
+      "iconClass": "glyphicon glyphicon-user",
+      "title": "重要客户分析",
+      "nestedName": [
+        {
+          "neIconClass": "glyphicon glyphicon-screenshot",
+          "name": "重要客户分布图",
+          "url": "vipLayout"
+        },
+        {
+          "neIconClass": "glyphicon glyphicon-eye-open",
+          "name": "重要客户追踪",
+          "url": "vipFollow"
+        }
+      ]
+    },
+    {
+      "iconClass": "fa fa-rmb",
+      "title": "货币分析",
+      "nestedName": [
+        {
+          "neIconClass": "glyphicon glyphicon-globe",
+          "name": "财富500强",
+          "url": "richTop"
+        }
+      ]
+    },
+    {
+      "iconClass": "fa fa-user-md",
+      "title": "新增用户质量分析",
+      "nestedName": [
+        {
+          "neIconClass": "fa fa-user-plus",
+          "name": "新增用户统计",
+          "url": "newUsers"
+        }
+      ]
+    },
+    {
+      "iconClass": "fa fa-users",
+      "title": "角色属性",
+      "nestedName": [
+        {
+          "neIconClass": "fa fa-industry",
+          "name": "等级分布",
+          "url": "leve"
+        },
+        {
+          "neIconClass": "fa fa-vimeo",
+          "name": "VIP分布",
+          "url": "vip"
+        }
+      ]
+    },
+    {
+      "iconClass": "fa fa-registered",
+      "title": "注册统计",
+      "nestedName": [
+        {
+          "neIconClass": "glyphicon glyphicon-eur",
+          "name": "累计注册",
+          "url": "totalRegiste"
+        },
+        {
+          "neIconClass": "glyphicon glyphicon-gbp",
+          "name": "累计建角",
+          "url": "totalCreateRole"
+        },
+        {
+          "neIconClass": "glyphicon glyphicon-gbp",
+          "name": "注册天统计",
+          "url": "dayRegiste"
+        },
+        {
+          "neIconClass": "glyphicon glyphicon-gbp",
+          "name": "新增用户统计",
+          "url": "newRole"
+        }
+      ]
+    },
+    {
+      "iconClass": "fa fa-credit-card",
+      "title": "付费统计",
+      "nestedName": [
+        {
+          "neIconClass": "glyphicon glyphicon-eur",
+          "name": "付费排行榜",
+          "url": "payRank"
+        },
+        {
+          "neIconClass": "glyphicon glyphicon-gbp",
+          "name": "付费人数统计",
+          "url": "payNums"
+        },
+        {
+          "neIconClass": "glyphicon glyphicon-gbp",
+          "name": "连续付费统计",
+          "url": "continuousPay"
+        },
+        {
+          "neIconClass": "glyphicon glyphicon-gbp",
+          "name": "金额统计",
+          "url": "payMoney"
+        },
+        {
+          "neIconClass": "glyphicon glyphicon-gbp",
+          "name": "率统计",
+          "url": "payRate"
+        }
+      ]
+    },
+    {
+      "iconClass": "glyphicon glyphicon-usd",
+      "title": "活跃统计",
+      "nestedName": [
+        {
+          "neIconClass": "glyphicon glyphicon-eur",
+          "name": "活跃用户统计",
+          "url": "activeUsers"
+        },
+        {
+          "neIconClass": "glyphicon glyphicon-gbp",
+          "name": "用户登录统计",
+          "url": "userLogin"
+        },
+        {
+          "neIconClass": "glyphicon glyphicon-gbp",
+          "name": "在线人数统计",
+          "url": "onlineUsers"
+        },
+        {
+          "neIconClass": "glyphicon glyphicon-gbp",
+          "name": "在线时长统计",
+          "url": "onlineTimes"
+        },
+        {
+          "neIconClass": "glyphicon glyphicon-gbp",
+          "name": "角色留存率",
+          "url": "roleRetention"
+        },
+        {
+          "neIconClass": "glyphicon glyphicon-gbp",
+          "name": "日流失率",
+          "url": "dayLostRate"
+        }
+      ]
+    },
+    {
+      "iconClass": "fa fa-money",
+      "title": "消费统计",
+      "nestedName": [
+        {
+          "neIconClass": "fa fa-money",
+          "name": "消费分布",
+          "url": "consume"
+        }
+      ]
+    },
+    {
+      "iconClass": "fa fa-fire",
+      "title": "体力统计",
+      "nestedName": [
+        {
+          "neIconClass": "fa fa-fire",
+          "name": "体力统计",
+          "url": "power"
+        }
+      ]
+    },
+    {
+      "iconClass": "fa fa-map-o",
+      "title": "地区统计",
+      "nestedName": [
+        {
+          "neIconClass": "glyphicon glyphicon-eur",
+          "name": "建角统计",
+          "url": "areaRole"
+        },
+        {
+          "neIconClass": "glyphicon glyphicon-gbp",
+          "name": "激活统计",
+          "url": "areaActive"
+        },
+        {
+          "neIconClass": "glyphicon glyphicon-gbp",
+          "name": "付费统计",
+          "url": "areaPay"
+        }
+      ]
+    }
+  ]
+}
